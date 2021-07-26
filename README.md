@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @yoyijourney
-- 
-- 👀 I’m interested in anime 
-- 
-- 🐂 Up! Up! up!
-- 
+# This is yoyijourney 🏡
+
++ 🏆 Hopefully it's a good start
 
 <!---
 yoyijourney/yoyijourney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
