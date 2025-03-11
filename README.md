@@ -1,6 +1,6 @@
 # This is yoyijourney 🏡
 
-+ 🏆 hope this is a good start
++ 🏆 Let's do it !!!
 
 <!---
 yoyijourney/yoyijourney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
